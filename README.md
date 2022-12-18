@@ -1,2 +1,2 @@
-# LR_4
-Polishchuk LR_4
+# LR_2.0
+Polishchuk LR_2.0
